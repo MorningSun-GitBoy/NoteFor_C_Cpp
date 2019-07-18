@@ -11,3 +11,5 @@ In document end with "_pp" ,I use the cpp's gramar and use C gramar in orthers.
 * 运行环境：使用MinGW编译器，遵循gcc的要求
 * Code Style: begain with annotations to descrip functions,and end with annotations to summarize.
 * 代码格式：文件前段落注释会解释文件的功能，结尾后的段落注释会进行小总结
+* Encoding: using GBK in .cpp and .h ,and UTF-8 in .md
+* 编码格式：.cpp和.h文件中采用GBK编码，.md文件中采用UTF-8编码
