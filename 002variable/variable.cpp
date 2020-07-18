@@ -13,7 +13,7 @@ int main(){
       printf("整数（int）Π: %d\n",Pai);
       printf("整数（long）Π: %ld\n",Pi);
       printf("浮点数（float）Π: %f\n",pai);
-      printf("浮点数（double）Π: %lf\n",pi);
+      printf("浮点数（double）Π: %e\n",pi);
       printf("符号（char）Π: %c\n",p);
       return 0;
 }
